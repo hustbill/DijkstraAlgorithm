@@ -16,7 +16,8 @@ and every other node
  */
  
  
- Reference :   http://www.vogella.com/tutorials/JavaAlgorithmsDijkstra/article.html#dijkstra_overview
+ Reference 1:   http://www.vogella.com/tutorials/JavaAlgorithmsDijkstra/article.html#dijkstra_overview
+ Reference 2:   http://blog.csdn.net/javaman_chen/article/details/8254309
  
  
 Test:
